@@ -12,6 +12,7 @@ Bot mógłby dostać listę uczestników spotkania oraz limit i wypluć listę d
 # Pomysł 2 (wersja super mini) 
 Bot mógłby dostać listę uczestników spotkania i wypluć listę z policzonymi no-showami 
 1. można dodać odprawcowywanie
+1. boot mógłby zmieniać status na "Yes" i pisać wiadomość na priv do osoby, której zmienił status.
 
 # Pomysł 3 (full wypas) 
 Bot mógłby wyliczać listę gości do zaproszenia (tak, jak w pomyśle 1) i sam im klikać "Yes" 
