@@ -19,3 +19,6 @@ Bot mógłby wyliczać listę gości do zaproszenia (tak, jak w pomyśle 1) i sa
 1. pewnie warto zachować jakąś historię, by ew naprawić jak bot popsuje. 
 1. można dodać sprawdzanie co jakiś czas (co godzinę?) i dodawanie następnych z listy jeśli miejsce się zwolniło
 1. można dodać jakieś zgrabne informowanie tych pominiętych, że zostali pominięci
+
+# Pomysł 4 (wersja dodatkowa)
+Odpust zupełny - wyzerowanie statu no-show, jak się wystąpi na AgileWarsaw. Kusząca propozycja dla "wielkich grzeszników". Problem: na tą chilę wystąpienie marzec/kwiecień 2019 jest możliwe (chyba, że wtedy zerujemy "na kredyt" i dopisanie do listy, a kiedy się rzeczywiście wystąpienie odbędzie - to już inna sprawa)
