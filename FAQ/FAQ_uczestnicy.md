@@ -19,22 +19,19 @@ Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby w
 
 Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczona. Mamy dwa sposoby wyboru uczestników: 
 
-1. Według kolejności zapisów.
+1. Według kolejności zapisów 
 2. Ręcznie na podstawie odpowiedzi na pytanie przy zapisach. 
 
-Wybór sposobu należy do prelegentów.
+Wybór sposobu należy do prelegentów, przy czym oba sposoby zawierają odfiltrowanie z listy osób, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
    
 Ręczny sposób przebiega tak:
 
   - Przy zapisie zobaczysz pytanie dotyczące spotkania. *Uwaga: pytanie nie pojawia się jeśli zapisujesz się przez apkę na telefon!*<sup>1</sup>
   - Po udzieleniu odpowiedzi trafisz na listę oczekujących. Kolejność na tej liście nie ma znaczenia bo:
   - Na ~2 dni przed spotkaniem zapisy zostaną zamknięte i prelegenci wybiorą ręcznie na podstawie odpowiedzi osoby, które wg. nich najbardziej skorzystają na spotkaniu.
-  - Organizatorzy jeszcze odflitrowują z listy osoby, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
   - Pod koniec dnia organizatorzy wszystko wyklikają i wybrane osoby trafią na listę uczestników.
 
 <sup>1</sup> Odpowiedź można zmieniać, więc możesz zapisać się na telefonie a potem poprawić odpowiedź przy komputerze.
-   
-
 
 # Prelegenci
 
