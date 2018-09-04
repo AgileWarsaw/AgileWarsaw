@@ -1,0 +1,1 @@
+[Link do spotkania](https://www.meetup.com/AgileWarsaw/events/253958156/)
