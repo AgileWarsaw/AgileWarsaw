@@ -1,19 +1,19 @@
 # Lista obecności
 
-Listy obecności zostały wprowadzone dlatego, że chętnych jest zwykle dużo więcej niż może pomieścić sala. Czasami również organizator czy prelegent może limitować liczbę miejsc. Chcąc jak najlepiej sprostać oczekiwaniom uczestników meetupów i wprowadzić choć niewielką przewidywalność wprowadziliśmy listy uczestników.
+Listy obecności zostały wprowadzone dlatego, że chętnych jest często dużo więcej niż może pomieścić sala albo format warsztatu. Chcąc jak najlepiej sprostać oczekiwaniom uczestników meetupów i wprowadzić choć niewielką przewidywalność wprowadziliśmy listy obecności uczestników.
 
 
 ## Dlaczego lista
 
-Żeby móc znaleźć i zarezerwować miejsce na spotkanie musimy w miarę precyzyjnie zgadnąć ile osób się pojawi a duża część (często większość!) osób deklarujących obecność nie pojawia się na spotkaniu. Dotąd nie było to problemem ale ostatnio, niestety, zaczyna to utrudniać życie nie tylko organizatorom ale, co gorsze, naszym gospodarzom. Wprowadzenie listy jest próbą zwiększenia przewidywalności frekwencji.
+Żeby móc znaleźć i zarezerwować miejsce na spotkanie musimy w miarę precyzyjnie zgadnąć ile osób się pojawi a duża część (często większość!) osób deklarujących obecność nie pojawia się na spotkaniu. Wprowadzenie listy jest próbą zwiększenia _przewidywalności frekwencji_ bo nie zawsze mamy możliwość pomieszczenia dowolnie dużej grupy.
 
-Osoby, które zapisały się na Meetup a nie odznaczyły się na liście mają ustawiony status ,,no-show'' dla danego spotkania. Niczym to nie skutkuje ale na spotkaniach na których liczba osób jest ograniczona (np. warsztaty) ich organizatorzy mogą się zastanawiać które osoby zwiększają ryzyko ich niepowodzenia.
+Konkretnie: osoby, które zapisały się na Meetup a nie odznaczyły się na liście mają ustawiony status ,,no-show'' dla danego spotkania. Niczym to nie skutkuje od razu ale na spotkaniach na których liczba osób jest ograniczona (najczęściej będą to warsztaty) ich organizatorzy mogą się zastanawiać które osoby zwiększają ryzyko ich niepowodzenia.
 
 Tak na marginesie, inne spotkania warszawskie, które mają mniej szczęścia do miejscówek, wprowadziły ostrzejsze zasady np. ,,no-show'' trzy razy pod rząd powoduje wykluczenie z grupy.
 
 ## Logistyka wokół listy
 
-Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''. Nawet jeśli się było tylko na ,,waitliście''---z waitlisty w losowym momencie można wskoczyć na ,,yes''. Dla ustalenia uwagi uznajemy, że ,,w ostatniej chwili'' zaczyna się w dniu spotkania.
+Lista nie jest zamykana tuż przed rozpoczęciem spotkania--nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''. Nawet jeśli się było tylko na ,,waitliście''--z waitlisty w losowym momencie można wskoczyć na ,,yes''. Dla ustalenia uwagi uznajemy, że ,,w ostatniej chwili'' zaczyna się w dniu spotkania.
 
 # Zapisy przy ograniczonej liczbie miejsc
 
@@ -22,7 +22,7 @@ Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczon
 1. Według kolejności zapisów 
 2. Ręcznie na podstawie odpowiedzi na pytanie przy zapisach. 
 
-Wybór sposobu należy do prelegentów, przy czym oba sposoby zawierają odfiltrowanie z listy osób, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
+Wybór sposobu należy do prelegentów, przy czym oba sposoby zawierają krok odfiltrowania z listy osób, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
    
 Ręczny sposób przebiega tak:
 
@@ -32,6 +32,14 @@ Ręczny sposób przebiega tak:
   - Pod koniec dnia organizatorzy wszystko wyklikają i wybrane osoby trafią na listę uczestników.
 
 <sup>1</sup> Odpowiedź można zmieniać, więc możesz zapisać się na telefonie a potem poprawić odpowiedź przy komputerze.
+
+# Spoźnienia
+
+Każde spóźnienie jest problemem dla osób, które poświęcają swój czas na to, żeby meetup się odbył.
+
+Spóźniając się, w nalepszym przypadku przekodzisz prelegentowi. W gorszych--jeśli wejście do sali, w której odbywa się spotkanie jest kontolowane przez ochronę--zmuszasz kogoś z organizatorów Agile Warsaw lub firmy nas goszczącej do dodatkowego wyjścia specjalnie po Ciebie. Ryzykujesz również niedostanie się na salę w ogóle.
+
+Słowem, naprawdę warto dać sobie choć minimalny margines czasu na dotarcie na czas.
 
 # Prelegenci
 
