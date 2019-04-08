@@ -2,7 +2,7 @@
 
 ## Jaki temat wybrać?
 
-Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 2000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
+Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (blisko 3000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
 
 ## Tytuł
 
