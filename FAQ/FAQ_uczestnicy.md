@@ -13,7 +13,7 @@ Tak na marginesie, inne spotkania warszawskie, które mają mniej szczęścia do
 
 ## Logistyka wokół listy
 
-Lista nie jest zamykana tuż przed rozpoczęciem spotkania--nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''. Nawet jeśli się było tylko na ,,waitliście''--z waitlisty w losowym momencie można wskoczyć na ,,yes''. Dla ustalenia uwagi uznajemy, że ,,w ostatniej chwili'' zaczyna się w dniu spotkania.
+Lista nie jest zamykana tuż przed rozpoczęciem spotkania--nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''. Nawet jeśli się było tylko na ,,waitliście''--z waitlisty w losowym momencie można wskoczyć na ,,yes''.
 
 ## Odpracowanie nieobecności
 
