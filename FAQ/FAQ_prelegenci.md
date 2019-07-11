@@ -1,8 +1,8 @@
-# Przygotowania
+# Przygotowania (for English scroll down :)
 
 ## Jaki temat wybrać?
 
-Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 2000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
+Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 3000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
 
 ## Tytuł
 
@@ -46,7 +46,58 @@ Pewnie nie widać tego za bardzo ale skoordynowanie takiego spotkania wymaga zgr
 
 Jak dotąd nie musieliśmy jeszcze robić spotkania bez slajdów ale parę razy prezentację ratował laptop kogoś z publiczności.
    
-   - postaraj się mieć przejściówki do rzutnika: rzutnik może mieć podłączenie VGA lub HDMI
-   
-   - slajdy off-line: na miejscu może nie być połączenia z internetem (niektóre budynki mocno tłumią sygnał komórkowy)
+  - postaraj się mieć przejściówki do rzutnika: rzutnik może mieć podłączenie VGA lub HDMI
+  - slajdy off-line: na miejscu może nie być połączenia z internetem (niektóre budynki mocno tłumią sygnał komórkowy)
 
+---
+
+# Preparation
+
+## What topic to choose?
+
+If you have the possibility to choose from a variety of stories, the one that is the closest to you will be the best one. Agile Warsaw is a large community (over 3,000 people) and each topic will be interesting for some subgroup. When you are talking about topics that are close to you, it will be easier for you to engage the audience.
+ 
+## Title
+The title should be in the same language as the speech in order to avoid audience disappointment. So far, there are no many foreigners who do not speak Polish, but when sharing a recording on YouTube that may not be taken for granted.
+
+Meetup.com limits the length of the title to 80 characters. Excluding the title number #XXX_ there are 75 characters remaining.
+
+## Selection of participants
+
+It happens that during workshops (for example) the number of places must be limited. Then there are two ways to make a selection: by the order of registrations or manually based on the answer to the question asked at the registration.
+
+Meetup provides automatic selection by the order of registration, by limiting the number of places. Usually available places are taken in less than an hour from announcing the meeting, so we'll ask you when to announce the meeting.
+
+Manual selection:
+  
+  - Participants are given a question while signing up for the meeting. The question is limited to just one.
+  - After answering a question (250 characters maximum) they are sent to the waiting list.
+  - ~ 2 days before the meeting, you will receive the waiting list from the organizers, to put participants in a preferred order.
+  - The list has to be sent back to the organizers before evening. Organizers remove participants who have a history of “no show” from previous meetings and publish the list of accepted participants.
+
+The timing of the last two steps is important because communication to accepted participants needs to be done in advance. If a meeting is scheduled for Monday, you will be given a waiting list on Friday morning. Organizers will expect the list back by 2:00 PM at the latest.
+
+If you do not follow the process, participants will be chosen randomly or by registration order. The meeting will happen, but, both your and our effort will be wasted.
+
+# How long can I speak?
+
+There are no specific restrictions. Most of the speakers talk for about an hour. Preparing a shorter presentation is usually more challenging however it is better received by the audience. The shorter it is, the more room there is for discussion with or between attendees. It does not have to be a traditional presentation…
+
+## Can we record and share the recording of your speech?
+
+We are trying to record each speech at Agile Warsaw, to preserve them for posterity,  but we are not forcing anything. Sometimes the topic is not proper for recording, sometimes the camera increases speakers’ stress level too much.
+
+# At the venue 
+
+Probably you won’t see it that much, but coordination of such a meeting requires synchronization of many different details.
+
+## Time
+
+come at least 15 minutes before the scheduled time of the meeting
+
+## Equipment and slides
+
+So far, we did not have to do a meeting without slides, but several times the presentation was saved by the laptop of somebody from the audience.
+
+  - try to have adapters for the projector: the projector may have VGA or HDMI input.
+  - off-line slides: there may be no internet connection on the site (some buildings block the signal)
