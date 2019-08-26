@@ -17,6 +17,8 @@ Lista nie jest zamykana tuż przed rozpoczęciem spotkania--nie spełniałaby wt
 
 # Zapisy przy ograniczonej liczbie miejsc
 
+**Ważne:** sposoby wybierania osób będą zmieniać się z czasem (idealnie, żeby kiedyś robił to nasz algorytm) ale zawsze preferowane będą osoby z historią przewidywalnego przychodzenia na spotkania. Oczywiście osoby, które się zapisują i nie przychodzą mają małe szanse ale, idąc tym samym tropem, osoby jeszcze bez historii mają mniejsze szanse niż osoby z historią pozytywną. To na szczęście szybko się wyrównuje.
+
 Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczona. Mamy dwa sposoby wyboru uczestników: 
 
 1. Według kolejności zapisów 
